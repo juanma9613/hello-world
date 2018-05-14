@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 conservar/*
 !conservar/.gitkeep
+.empty
+.empty/
 
 # C extensions
 *.so
