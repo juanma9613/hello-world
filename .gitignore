@@ -11,7 +11,8 @@ conservar/*
 .empty/
 data
 README.md
-
+*.txt
+*.class
 # C extensions
 *.so
 
