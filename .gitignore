@@ -1,5 +1,7 @@
 # exclude everything
 hello-world/conservar/*
+README.md
+hello-world/README.md
 
 # exception to the rule
 !hello-world/conservar/.gitkeep 
