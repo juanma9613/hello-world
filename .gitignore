@@ -1,5 +1,5 @@
 # exclude everything
-conservar/*
+hello-world/conservar/*
 
 # exception to the rule
-!conservar/.gitkeep 
+!hello-world/conservar/.gitkeep 
