@@ -5,6 +5,9 @@ __pycache__/
 conservar/*
 !conservar/.gitkeep
 .empty
+*.empty
+*./empty
+*.empty/
 .empty/
 
 # C extensions
