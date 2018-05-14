@@ -9,6 +9,8 @@ conservar/*
 *./empty
 *.empty/
 .empty/
+data
+README.md
 
 # C extensions
 *.so
@@ -109,3 +111,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data
+README.md
